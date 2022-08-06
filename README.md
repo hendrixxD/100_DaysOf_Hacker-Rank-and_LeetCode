@@ -5,3 +5,5 @@
 
 ### Day 1
 [write a function is_leap(year)](https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true)
+
+### End of day 1: 23:5925
